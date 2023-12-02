@@ -14,7 +14,6 @@ Welcome to the Quiz App, a simple and interactive React application for testing 
 - [Usage](#usage)
 - [Styling](#styling)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
